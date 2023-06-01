@@ -1,0 +1,11 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\bin\Debug\практика 3.exe.config
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\bin\Debug\практика 3.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\bin\Debug\практика 3.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\obj\Debug\практика 3.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\obj\Debug\практика 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\obj\Debug\практика_3.Form1.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\obj\Debug\практика_3.Properties.Resources.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\obj\Debug\практика 3.csproj.GenerateResource.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\obj\Debug\практика 3.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\obj\Debug\практика 3.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\ПТПМ\практика 3\obj\Debug\практика 3.pdb
